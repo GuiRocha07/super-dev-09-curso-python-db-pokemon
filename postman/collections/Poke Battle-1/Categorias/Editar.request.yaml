@@ -1,0 +1,5 @@
+$kind: http-request
+name: Editar
+url: http://localhost:8000/categorias/6
+method: PUT
+order: 4338802307992146

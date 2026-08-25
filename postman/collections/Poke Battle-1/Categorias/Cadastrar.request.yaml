@@ -1,0 +1,8 @@
+$kind: http-request
+name: Cadastrar
+url: http://localhost:8000/categorias
+method: POST
+body:
+  type: json
+  content: ' {"nome": "Flamengo"}'
+order: 2552873623771819

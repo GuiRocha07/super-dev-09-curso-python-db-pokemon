@@ -1,0 +1,5 @@
+$kind: http-request
+name: Consultar todas
+url: http://localhost:8000/categorias
+method: GET
+order: 1787614239772
